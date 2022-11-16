@@ -1,0 +1,19 @@
+{
+  "name": "cybersecurity-news-api",
+  "version": "1.0.0",
+  "description": "- 1\r - 2\r - 3\r - 4\r - 5\r ### Frameworks\r - 1\r - 2\r - 3\r - 4\r - 5\r ## What I learned:\r - 1\r - 2\r - 3\r ## How to Use\r - 1\r - 2\r ## Author Info\r - Website: [LinkedIn - Jordon Kane](https://www.linkedin.com/in/jordonkane/)",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jordonkane/news-api.git"
+  },
+  "author": "jordon kane",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jordonkane/news-api/issues"
+  },
+  "homepage": "https://github.com/jordonkane/news-api#readme"
+}
